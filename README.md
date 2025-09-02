@@ -4,6 +4,8 @@
 
 Hi! I'm Dyllan Kolinen, I'm a college student studying Computer Science at Judson University. 
 
+I also enjoy creative endevors such as writing, graphic design, and photography.
+
 <!--
 **dyllan-kolinen-j/dyllan-kolinen-j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
