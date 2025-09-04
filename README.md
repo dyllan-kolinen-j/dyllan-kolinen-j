@@ -6,6 +6,10 @@ Hi! I'm Dyllan Kolinen, I'm a college student studying Computer Science at Judso
 
 I also enjoy creative endevors such as writing, graphic design, photography, and videography.
 
+## Contact
+ - Email: dyllakolinen@gmail.com
+ - discord: @swissconsin
+
 <!--
 **dyllan-kolinen-j/dyllan-kolinen-j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
