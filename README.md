@@ -1,10 +1,8 @@
-## Hi there 👋
+# Hi Folks
 
-*is this thing on?*
+My name is Dyllan Kolinen, I am a computer science student at Judson University. I've loved tinkering with tech since I was old enough to hold a screwdriver.
 
-Hi! I'm Dyllan Kolinen, I'm a college student studying Computer Science at Judson University. 
-
-I also enjoy creative endevors such as writing, graphic design, photography, and videography.
+I am also a creative and dabble in Photopgraphy and graphic design and you'll probably also catch me drowling over some antique garbage from time to time.
 
 ## Contact
  - Email: dyllakolinen@gmail.com
